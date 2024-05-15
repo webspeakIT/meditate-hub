@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Сandara';
+    src: url('fonts/candara.eot');
+    src: url('fonts/candara.eot') format('embedded-opentype'),
+        url('fonts/candara.woff2') format('woff2'),
+        url('fonts/candara.woff') format('woff'),
+        url('fonts/candara.ttf') format('truetype'),
+        url('fonts/candara.svg#candara') format('svg');
+}
